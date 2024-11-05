@@ -1,2 +1,2 @@
-név:
-osztály:
+név:Kuik-Filep Roland
+osztály:9.c
